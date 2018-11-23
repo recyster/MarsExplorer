@@ -1,0 +1,14 @@
+c:\users\recyter\source\repos\Mars.Explorer0\Mars.Explorer0\bin\Debug\Mars.Explorer0.exe.config
+c:\users\recyter\source\repos\Mars.Explorer0\Mars.Explorer0\bin\Debug\Mars.Explorer0.exe
+c:\users\recyter\source\repos\Mars.Explorer0\Mars.Explorer0\bin\Debug\Mars.Explorer0.pdb
+c:\users\recyter\source\repos\Mars.Explorer0\Mars.Explorer0\obj\Debug\Mars.Explorer0.csproj.CoreCompileInputs.cache
+c:\users\recyter\source\repos\Mars.Explorer0\Mars.Explorer0\obj\Debug\Mars.Explorer0.exe
+c:\users\recyter\source\repos\Mars.Explorer0\Mars.Explorer0\obj\Debug\Mars.Explorer0.pdb
+c:\users\recyter\source\repos\Mars.Explorer0\Mars.Explorer0\obj\Debug\Mars.Explorer0.csprojResolveAssemblyReference.cache
+C:\Users\Recyter\Desktop\Mars.Explorer0\Mars.Explorer0\bin\Debug\Mars.Explorer0.exe.config
+C:\Users\Recyter\Desktop\Mars.Explorer0\Mars.Explorer0\bin\Debug\Mars.Explorer0.exe
+C:\Users\Recyter\Desktop\Mars.Explorer0\Mars.Explorer0\bin\Debug\Mars.Explorer0.pdb
+C:\Users\Recyter\Desktop\Mars.Explorer0\Mars.Explorer0\obj\Debug\Mars.Explorer0.csprojResolveAssemblyReference.cache
+C:\Users\Recyter\Desktop\Mars.Explorer0\Mars.Explorer0\obj\Debug\Mars.Explorer0.csproj.CoreCompileInputs.cache
+C:\Users\Recyter\Desktop\Mars.Explorer0\Mars.Explorer0\obj\Debug\Mars.Explorer0.exe
+C:\Users\Recyter\Desktop\Mars.Explorer0\Mars.Explorer0\obj\Debug\Mars.Explorer0.pdb
